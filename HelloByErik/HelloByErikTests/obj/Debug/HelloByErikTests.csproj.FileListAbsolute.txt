@@ -1,7 +1,7 @@
-C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErikTests\obj\Debug\HelloByErikTests.csprojResolveAssemblyReference.cache
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErikTests\bin\Debug\HelloByErikTests.dll
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErikTests\bin\Debug\HelloByErikTests.pdb
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErikTests\bin\Debug\HelloByErik.exe
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErikTests\bin\Debug\HelloByErik.pdb
+C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErikTests\obj\Debug\HelloByErikTests.csprojResolveAssemblyReference.cache
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErikTests\obj\Debug\HelloByErikTests.dll
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErikTests\obj\Debug\HelloByErikTests.pdb
