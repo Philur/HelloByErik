@@ -1,6 +1,8 @@
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\bin\Debug\HelloByErik.exe.config
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\bin\Debug\HelloByErik.exe
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\bin\Debug\HelloByErik.pdb
+C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\bin\Debug\HelloByErik.exe.CodeAnalysisLog.xml
+C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\bin\Debug\HelloByErik.exe.lastcodeanalysissucceeded
+C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\obj\Debug\HelloByErik.csprojResolveAssemblyReference.cache
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\obj\Debug\HelloByErik.exe
 C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\obj\Debug\HelloByErik.pdb
-C:\GitHub_Archive\HelloByErik\HelloByErik\HelloByErik\obj\Debug\HelloByErik.csprojResolveAssemblyReference.cache
