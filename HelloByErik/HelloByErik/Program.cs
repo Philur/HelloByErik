@@ -12,6 +12,9 @@ namespace HelloByErik
         {
             Console.WriteLine(CreateMessage());
             Console.WriteLine(CreateMessageGoodBye());
+            
+            Console.WriteLine(CreateMessage());
+            Console.WriteLine(CreateMessageGoodBye());
         }
 
         public static string CreateMessage()
