@@ -11,6 +11,7 @@ namespace HelloByErik
         private static void Main(string[] args)
         {
             Console.WriteLine(CreateMessage());
+            Console.WriteLine(CreateMessageGoodBye());
         }
 
         public static string CreateMessage()
@@ -18,5 +19,9 @@ namespace HelloByErik
             return "Hello World";
         }
 
+        public static string CreateMessageGoodBye()
+        {
+            return "Goodbye World";
+        }
     }
 }

@@ -22,4 +22,13 @@ namespace HelloByErikTests
             Assert.AreEqual("Hello World", Program.CreateMessage());
         }
     }
+    [TestClass]
+    public class UnitTest3
+    {
+        [TestMethod]
+        public void TestMethod3()
+        {
+            Assert.AreEqual("Goodbye World", Program.CreateMessagegoodBye());
+        }
+    }
 }
