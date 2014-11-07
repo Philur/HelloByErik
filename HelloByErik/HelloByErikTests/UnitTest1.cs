@@ -28,7 +28,7 @@ namespace HelloByErikTests
         [TestMethod]
         public void TestMethod3()
         {
-            Assert.AreEqual("Goodbye World", Program.CreateMessagegoodBye());
+            Assert.AreEqual("Goodbye World", Program.CreateMessageGoodBye());
         }
     }
 }
