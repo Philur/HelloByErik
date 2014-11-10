@@ -1,0 +1,1 @@
+"HelloByErik\packages\ReportGenerator.2.0.1.0\ReportGenerator.exe" -reports:TestResults\results.xml -targetdir:TestResults\coverage
