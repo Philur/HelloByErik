@@ -4,6 +4,7 @@ using HelloByErik;
 
 namespace HelloByErikTests
 {
+
     [TestClass]
     public class UnitTest1
     {
@@ -13,6 +14,7 @@ namespace HelloByErikTests
             Assert.AreEqual("Hello World", Program.CreateMessage());
         }
     }
+
     [TestClass]
     public class UnitTest2
     {
@@ -22,6 +24,7 @@ namespace HelloByErikTests
             Assert.AreEqual("Hello World", Program.CreateMessage());
         }
     }
+
     [TestClass]
     public class UnitTest3
     {
@@ -31,6 +34,7 @@ namespace HelloByErikTests
             Assert.AreEqual("Goodbye World", Program.CreateMessageGoodBye());
         }
     }
+
     /*
     [TestClass]
     public class UnitTest4
