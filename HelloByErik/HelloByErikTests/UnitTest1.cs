@@ -35,15 +35,14 @@ namespace HelloByErikTests
         }
     }
 
-    /*
+
     [TestClass]
     public class UnitTest4
     {
             [TestMethod]
             public void TestMethod4()
             {
-                Assert.AreEqual("Goodbye World!!", Program.CreateMessageGoodBye());
+                Assert.AreNotEqual("Goodbye World!!", Program.CreateMessageGoodBye());
             }
         }
-    */
 }
