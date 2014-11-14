@@ -15,6 +15,8 @@ namespace HelloByErik
             
             Console.WriteLine(CreateMessage());
             Console.WriteLine(CreateMessageGoodBye());
+
+            //TODO additional messages needs to be configured
         }
 
         public static string CreateMessage()

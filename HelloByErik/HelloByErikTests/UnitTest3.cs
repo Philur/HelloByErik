@@ -10,6 +10,7 @@ namespace HelloByErikTests
         [TestMethod]
         public void CreateMessageTest()
         {
+            //HACK This really needs to be improved
             Assert.AreEqual("Hello World", Program.CreateMessage());
         }
     

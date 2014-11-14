@@ -4,6 +4,7 @@ using HelloByErik;
 
 namespace HelloByErikTests
 {
+    //REFACTOR this class needs refactoring
     [TestClass]
     public class UnitTestA
     {
