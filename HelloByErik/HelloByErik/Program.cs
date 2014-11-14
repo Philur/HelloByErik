@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//setting CLSCompliant attribute to false
+[assembly: CLSCompliant(false)]
 namespace HelloByErik
 {
     public class Program
